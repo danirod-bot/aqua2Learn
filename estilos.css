@@ -1,0 +1,169 @@
+ #cabecita {
+     background-color: #417FA6;
+     padding: 40px;
+     border-radius: 25px;
+     text-align: center;
+ }
+
+ * {
+     font-family: "nunito", sans-serif;
+ }
+
+ .problematicas-video{
+    padding: 30px;
+    background-color: #a2cdf2;
+    border-radius: 20px;
+
+ }
+
+ a{
+    text-decoration: none;
+ }
+
+ .tematica,
+ .tematica1,
+ .tematica2 {
+     margin-bottom: 140px;
+     padding: 25px;
+     text-align: center;
+     display: flex;
+     justify-content: center;
+ }
+
+ .temas {
+     border-radius: 25px;
+     flex: 1;
+     padding: 10px;
+     margin-inline-end: 40px;
+     margin-inline-start: 40px;
+     height: 440px;
+     width: 800px;
+     text-align: center;
+ }
+
+ .flecha {
+     text-align: center;
+ }
+
+ footer {
+     text-align: center;
+     background-color: #417FA6;
+     padding: 10px;
+
+ }
+
+ .contenido {
+     background-color: #A2CDF2;
+     color: black;
+     text-decoration: none;
+     padding: 10px;
+     border-radius: 10px;
+     cursor: pointer;
+     margin-block: 10px;
+ }
+
+ .contenidoBotones {
+     text-align: left;
+     margin-left: 45px;
+ }
+
+ .contenido:hover {
+     background-color: #417FA6;
+ }
+
+ .titulos {
+     background-color: #A2CDF2;
+     border-radius: 20px;
+     padding: 15px;
+     margin-left: 150px;
+     margin-right: 150px;
+ }
+
+ .descripciones {
+     background-color: #d2e0ec;
+     border-radius: 20px;
+     padding: 15px;
+     margin-left: 80px;
+     margin-right: 80px;
+     min-height: 80px;
+     position: relative;
+ }
+
+ .definiciones {
+     text-align: center;
+     display: flex;
+     flex-direction: column;
+     gap: 40px;
+     /* separación entre términos */
+     margin: 40px;
+ }
+
+ .termino {
+     display: flex;
+     justify-content: center;
+     align-items: flex-start;
+     gap: 30px;
+     /* espacio entre columnas */
+ }
+
+ .centro {
+     flex: 2;
+     text-align: center;
+     width: 40%;
+     padding: 10px;
+ }
+
+ .lado {
+     flex: 1;
+     border-radius: 12px;
+     padding: 15px;
+     min-height: 100px;
+     height: 200px;
+     margin-left: 50px;
+     margin-right: 50px;
+ }
+
+ .lado.izquierdo {
+     text-align: right;
+     background-color: #a2cdf2;
+ }
+
+ .lado.derecho {
+     text-align: center;
+     border: none;
+ }
+
+ .nav-pills .nav-link {
+     color: #417FA6;
+ }
+
+ .agua {
+     background-color: #A2CDF2;
+     border-radius: 10px;
+ }
+
+ p {
+     padding: 10px;
+
+ }
+ .actividadess {
+    margin-bottom: 140px;
+     padding: 25px;
+     text-align: center;
+     display: flex;
+     justify-content: center;
+ }
+ .temasacti {
+    border-radius: 25px;
+     flex: 1;
+     padding: 10px;
+     margin-inline-end: 40px;
+     margin-inline-start: 40px;
+     height: 440px;
+     width: 800px;
+     text-align: center;
+ }
+
+ /* espacio entre columnas */
+
+ /* espacio entre columnas */
